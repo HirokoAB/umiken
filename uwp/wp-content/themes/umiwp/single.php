@@ -46,7 +46,7 @@ $args = array(
     ?><span class="day"><?php the_time('Y/m/d'); ?></span></h2>
 	
 				<div class="text-box"><?php the_content();?></div>
-
+kokokokokoko
 
 
 <?php

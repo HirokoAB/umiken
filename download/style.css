@@ -98,7 +98,7 @@ h2::after {
 }
 
 .text-center {
-	text-align: center;
+	text-align: center
 }
 
 .cover{
@@ -438,13 +438,7 @@ top
 .line-box {
 	border: 7px solid #f7f7f7;
 	box-sizing: border-box;
-	padding: 40px 100px;
-	text-align: center;
-}
-
-.line-box > h2{ 
-	text-align: center;
-
+	padding: 40px 50px;
 }
 
 .new {
@@ -1331,13 +1325,3 @@ footer ul li
 .pdgt0 {
 	padding-top: 0;
 }
-
-/* ==========================================================================
-Test ミーティングの内容をサンプルで実装
-========================================================================== */
-.fb-container{
-	max-width: 500px;
-	width:auto;
-}
-
-
